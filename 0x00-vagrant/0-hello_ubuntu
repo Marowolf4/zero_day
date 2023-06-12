@@ -1,6 +1,1 @@
-Kernel name - Linux.
-Host node name - machine01.
-Kernel release - 5.14.14-300.fc35.x86_64.
-Kernel version and build time - #1 SMP Wed Oct 20 16:14:50 UTC 2021.
-x86_64 x86_64 x86_64 - Processor type, hardware platform and architecture of processor.
-GNU/Linux - Operating system name.
+Linux
